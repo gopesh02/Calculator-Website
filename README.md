@@ -1,8 +1,8 @@
-# Oasis-Infobyte-Web-Developement-Internship-task-3
+# Oasis-Infobyte-Web-Developement-Internship-task-1
 
-Hello #connections !!  I have completed my Task 3 as Web and Design Developement Intern at Oasis Infobyte Thank You for this opportunity.  
+Hello #connections !!  I have completed my Task 1 as Web and Design Developement Intern at Oasis Infobyte Thank You for this opportunity.  
 
-Level 2 -  Task 2: Calculator  
+Level 2 -  Task 1: Calculator  
 
 Language - HTML, CSS, JavaScript  
 
